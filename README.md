@@ -7,12 +7,12 @@ Se reorganizó el proyecto trasladando los componentes Home, Register, Login, Ca
 
 - **Se implementaron las siguientes rutas**:
   - / → Home
- - /register → Register
- - /login → Login
- - /cart → Cart
- - /pizza/p001 → Pizza
- - /profile → Profile
- - /404 → NotFound
+  - /register → Register
+  - /login → Login
+  - /cart → Cart
+  - /pizza/p001 → Pizza
+  - /profile → Profile
+  - /404 → NotFound
 
 - **NotFound.jsx**:
   - Se creó un componente NotFound, que se renderiza cuando el usuario accede a una ruta inexistente. Esta vista incluye un enlace que permite volver a la página principal
